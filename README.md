@@ -1,16 +1,19 @@
-# converter
+# Converter
 
-A new Flutter project.
+A simple Flutter application for converting values between fahnheit and celsius.
+
+## Features
+
+- User-friendly interface for quick conversions
+- Supports multiple unit types
+- Real-time conversion results
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository.
+2. Run `flutter pub get` to install dependencies.
+3. Launch the app using `flutter run`.
 
-A few resources to get you started if this is your first Flutter project:
+## Widget Initialization
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The main widget initializes the app and sets up the home screen:
